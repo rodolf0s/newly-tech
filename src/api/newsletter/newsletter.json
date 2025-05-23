@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "name": "Golang Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://golangweekly.com/",
+        "category": "Programming"
+    },
+    {
+        "id": 2,
+        "name": "JavaScript Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://javascriptweekly.com/",
+        "category": "Programming"
+    },
+    {
+        "id": 3,
+        "name": "Python Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://www.pythonweekly.com/",
+        "category": "Programming"
+    },
+    {
+        "id": 4,
+        "name": "Ruby Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://rubyweekly.com/",
+        "category": "Programming"
+    },
+    {
+        "id": 5,
+        "name": "Haskell Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://haskellweekly.news/",
+        "category": "Programming"
+    },
+    {
+        "id": 6,
+        "name": "Perl Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://perlweekly.com/",
+        "category": "Programming"
+    },
+    {
+        "id": 7,
+        "name": "Rust Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://this-week-in-rust.org/",
+        "category": "Programming"
+    },
+    {
+        "id": 8,
+        "name": "Swift Weekly Brief",
+        "lastUpdated": "2025-03-30",
+        "url": "https://swiftweeklybrief.com/",
+        "category": "Programming"
+    },
+    {
+        "id": 9,
+        "name": "GraphQL Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://www.graphqlweekly.com/",
+        "category": "Technology"
+    },
+    {
+        "id": 10,
+        "name": "WebAssembly Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://webassemblyweekly.com/",
+        "category": "Technology"
+    },
+    {
+        "id": 11,
+        "name": "Lua Digest",
+        "lastUpdated": "2025-03-30",
+        "url": "https://luadigest.github.io/",
+        "category": "Programming"
+    },
+    {
+        "id": 12,
+        "name": "LLVM Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "http://llvmweekly.org/",
+        "category": "Technology"
+    },
+    {
+        "id": 13,
+        "name": "Racket News",
+        "lastUpdated": "2025-03-30",
+        "url": "https://racket-news.com/",
+        "category": "Programming"
+    },
+    {
+        "id": 14,
+        "name": "Pony Foo Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://ponyfoo.com/weekly",
+        "category": "Programming"
+    },
+    {
+        "id": 15,
+        "name": "iOS Dev Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://iosdevweekly.com/",
+        "category": "Technology"
+    },
+    {
+        "id": 16,
+        "name": "Coffee Bytes",
+        "lastUpdated": "2025-03-30",
+        "url": "https://medium.com/better-programming/newsletter",
+        "category": "Technology"
+    },
+    {
+        "id": 17,
+        "name": "Inside Java Newsletter",
+        "lastUpdated": "2025-03-30",
+        "url": "https://go.oracle.com/LP%3D136406",
+        "category": "Programming"
+    },
+    {
+        "id": 18,
+        "name": "The JavaSpecialists' Newsletter",
+        "lastUpdated": "2025-03-30",
+        "url": "https://www.javaspecialists.eu/archive/",
+        "category": "Programming"
+    },
+    {
+        "id": 19,
+        "name": "Java Annotated Monthly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://www.jetbrains.com/lp/jam/",
+        "category": "Programming"
+    },
+    {
+        "id": 20,
+        "name": "Android Developer Newsletter",
+        "lastUpdated": "2025-03-30",
+        "url": "https://developer.android.com/newsletter",
+        "category": "Technology"
+    },
+    {
+        "id": 21,
+        "name": "Android Weekly",
+        "lastUpdated": "2025-03-30",
+        "url": "https://androidweekly.net/",
+        "category": "Technology"
+    }
+]
