@@ -1,6 +1,8 @@
 # 📰 Technology & Programming Newsletters
 A curated collection of newsletters focused on technology and programming languages, providing an easy way to discover and subscribe to valuable industry insights.
 
+### 🌐 [Application URL](https://storage.googleapis.com/newsly-tech/index.html)
+
 # ✨ Purpose
 In the fast-paced world of technology, staying updated is crucial. This repository aims to be a quick and accessible resource for developers, tech enthusiasts, and anyone interested in the latest trends, news, and developments in programming and broader technology.
 
