@@ -31,10 +31,10 @@ const NewsletterList: React.FC = () => {
           <button
             key={category}
             onClick={() => setSelectedCategory(category)}
-            className={`px-4 py-2 rounded-lg text-sm font-medium border transition ${
+            className={`px-4 py-2 rounded-lg text-sm font-medium border-2 transition ${
               selectedCategory === category
-                ? 'bg-blue-500 text-white'
-                : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                ? 'bg-secondary border-secondary-variant text-white'
+                : 'bg-page-background border-secondary text-secondary hover:bg-primary hover:text-tertiary'
             }`}
           >
             {category}

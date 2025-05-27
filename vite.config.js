@@ -6,6 +6,7 @@ console.log("VITE CONFIGURATION FILE");
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "./",
   plugins: [
     react(),
     tailwindcss({
